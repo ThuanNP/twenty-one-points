@@ -1,0 +1,28 @@
+{
+  "twentyOnePointsApp": {
+    "point": {
+      "home": {
+        "title": "Points",
+        "createLabel": "Thêm mới một Point",
+        "createOrEditLabel": "Thêm mới hoặc cập nhật Point",
+        "search": "Tìm Point",
+        "notFound": "No Points found"
+      },
+      "created": "Một Point mới được tạo với định danh {{ param }}",
+      "updated": "Một Point cập nhật với định danh {{ param }}",
+      "deleted": "Một Point đã xóa với định danh {{ param }}",
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa Point {{ id }}?"
+      },
+      "detail": {
+        "title": "Point"
+      },
+      "date": "Date",
+      "exercise": "Exercise",
+      "meals": "Meals",
+      "alcohol": "Alcohol",
+      "note": "Note",
+      "user": "User"
+    }
+  }
+}
